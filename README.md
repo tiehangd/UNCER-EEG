@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-1.4.0-%237732a8)](https://pytorch.org/get-started/previous-versions/)
 
 
-Code for UE-EEG model introduced in ["Uncertainty Detection for EEG Neural Decoding Models"]()
+Code for UE-EEG model introduced in ["Uncertainty Detection for EEG Neural Decoding Models"](http://arxiv.org/abs/2201.00627)
 
 ## Setting up environment
 
