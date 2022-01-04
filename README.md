@@ -62,7 +62,13 @@ Clone the repository:
 
 Please cite our paper if it is helpful to your work:
 ```
-@article{Duan2021,
+@misc{duan2021uncertainty,
+      title={Uncertainty Detection in EEG Neural Decoding Models}, 
+      author={Tiehang Duan and Zhenyi Wang and Sheng Liu and Sargur N. Srihari and Hui Yang},
+      year={2021},
+      eprint={2201.00627},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP}
 }
 ```
 
