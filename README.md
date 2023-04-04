@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-1.4.0-%237732a8)](https://pytorch.org/get-started/previous-versions/)
 
 
-Code for UNCER introduced in ["Uncertainty Detection for EEG Neural Decoding Models"](http://arxiv.org/abs/2201.00627)
+Code for UNCER introduced in ["UNCER: A Framework for Uncertainty Estimation and Reduction in Neural Decoding of EEG Signals"](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003156)
 
 ## Setting up environment
 
@@ -21,7 +21,7 @@ Create a new environment and install python packages in it:
 
 Clone the repository:
    
-    git clone https://github.com/tiehangd/UE-EEG
+    git clone https://github.com/tiehangd/UNCER-EEG
 
 ## Dataset preparation
 
