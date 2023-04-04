@@ -62,13 +62,14 @@ Clone the repository:
 
 Please cite our paper if it is helpful to your work:
 ```
-@misc{duan2021uncertainty,
-      title={Uncertainty Detection in EEG Neural Decoding Models}, 
-      author={Tiehang Duan and Zhenyi Wang and Sheng Liu and Sargur N. Srihari and Hui Yang},
-      year={2021},
-      eprint={2201.00627},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@article{DUAN2023,
+title = {UNCER: A Framework for Uncertainty Estimation and Reduction in Neural Decoding of EEG Signals},
+journal = {Neurocomputing},
+year = {2023},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2023.03.071},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231223003156},
+author = {Tiehang Duan and Zhenyi Wang and Sheng Liu and Yiyi Yin and Sargur N. Srihari},
 }
 ```
 
