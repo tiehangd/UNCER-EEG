@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/pytorch-1.4.0-%237732a8)](https://pytorch.org/get-started/previous-versions/)
 
 
-Code for UNCER introduced in ["UNCER: A Framework for Uncertainty Estimation and Reduction in Neural Decoding of EEG Signals"](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003156)
+Code for model introduced in ["UNCER: A Framework for Uncertainty Estimation and Reduction in Neural Decoding of EEG Signals"](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003156)
 
 ## Setting up environment
 
