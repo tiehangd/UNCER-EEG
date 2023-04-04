@@ -76,7 +76,7 @@ author = {Tiehang Duan and Zhenyi Wang and Sheng Liu and Yiyi Yin and Sargur N. 
 
 ## Acknowledgements
 
-  Implementation of UE-EEG model utilized code from the following repositories:
+  Implementation of UNCER model utilized code from the following repositories:
     
     1) https://github.com/mattiasegu/uncertainty_estimation_deep_learning
     2) https://github.com/aliasvishnu/EEGNet
